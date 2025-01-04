@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+dist/
+
+# Testing
+coverage/
+reports/
+.stryker-tmp/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MongoDB
+.mongodb/
+.stryker-tmp/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS specific
+.DS_Store
+Thumbs.db
